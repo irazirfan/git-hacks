@@ -1,5 +1,5 @@
 # **Git Hacks**
-##### > git necessary cli commands and approach
+> git necessary cli commands and approach
 
 
 ## **delete commits by ~~mistake~~ from local working tree**
