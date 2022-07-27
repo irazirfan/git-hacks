@@ -22,3 +22,10 @@ git push origin master -f
 ```
 git remote update origin --prune
 ```
+
+
+## **fix powershell error of running ng commands**
+
+```
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
